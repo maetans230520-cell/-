@@ -1,0 +1,12 @@
+{
+  "name": "ingang-radar-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  }
+}
